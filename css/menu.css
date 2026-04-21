@@ -333,6 +333,7 @@ h3::after {
 .maincourse {
     position: relative;
     text-align: center;
+    z-index: -1;
 }
 .box-texto {
     padding-top: 3vh;
